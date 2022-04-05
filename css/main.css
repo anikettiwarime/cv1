@@ -69,7 +69,10 @@ span {
     top: 180px;
 }
 
-.skills {}
+
+.mountain-img {
+    width:100%;
+}
 
 .skill-row {
     margin: 100px auto 100px auto;
